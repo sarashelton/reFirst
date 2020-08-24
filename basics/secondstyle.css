@@ -1,0 +1,113 @@
+h1 {
+  font-size: 50px;
+  position: relative;
+  left: 35px;
+  font-family: "Helvetica Neue",Arial,sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: -.02em;
+  font-style: italic;
+}
+
+h3 {
+  font-size: 15px;
+  position: relative;
+  left: 430px;
+  font-family: "Helvetica Neue",Arial,sans-serif;
+  font-weight: 800;
+  font-style: normal;
+  letter-spacing: -.02em;
+  font-style: bold;
+	bottom: 740px;
+}
+
+li a {
+  color: #000;
+  text-decoration-line: none;
+  text-transform: lowercase;
+  font-family: "Helvetica Neue",Arial,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+    letter-spacing: -.02em;
+    line-height: 1.2em;
+}
+
+a:hover {
+  color: #f9e600;
+}
+
+ul {
+  list-style-type: none;
+  position: relative;
+  top: 30px;
+  left: -5px;
+}
+
+#outline {
+	position: relative;
+	top: -50px;
+	border: 1px solid black;
+	width: 600px;
+	height: 800px;
+	margin: auto;
+}
+#info {
+	text-align: right;
+	color: #5c9968;
+	font-family: "Helvetica Neue", Arial, sans-serif;
+	font-weight: bold;
+	width: 200px;
+	position: absolute;
+	top:70px;
+	left: 800px;
+}
+#resume-name {
+	text-align: left;
+	color: #000;
+	font-family: "Helvetica Neue", Arial, sans-serif;
+	font-style: italic;
+	width: 100px;
+  position: absolute;
+  left: 510px;
+	top:30px;
+	font-size: 40px;
+	word-break: normal;
+}
+#prof-resume {
+	position: absolute;
+  left: 430px;
+	top:85px;
+}
+
+#class {
+	font-size: 12px;
+  position: relative;
+  left: 430px;
+  font-family: "Helvetica Neue",Arial,sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: -.02em;
+	bottom: 745px;
+}
+
+#act {
+	font-size: 12px;
+  position: relative;
+  left: 430px;
+  font-family: "Helvetica Neue",Arial,sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: -.02em;
+	bottom: 745px;
+}
+
+#second {
+    background-image: url(bg2.jpeg);
+  background-size: 1400px 720px;
+}
+
+#resume {
+		background-image: url(bg2.jpeg);
+	background-size: 1200px 1050px;
+}

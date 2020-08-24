@@ -1,0 +1,63 @@
+li a {
+  color: #000;
+  text-decoration-line: none;
+  text-transform: lowercase;
+  font-family: "Helvetica Neue",Arial,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+    letter-spacing: -.02em;
+    line-height: 1.2em;
+}
+
+a:hover {
+  color: #f9e600;
+}
+
+ul {
+  list-style-type: none;
+  position: relative;
+  top: -30px;
+  left: -5px;
+}
+
+h1 {
+  color: #000;
+  font-size: 50px;
+  position: relative;
+  left: 35px;
+  font-family: "Helvetica Neue",Arial,sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: -.02em;
+  font-style: italic;
+}
+
+body{
+  background-image: url(gradient.jpeg);
+  background-size: 1400px 1000px;
+}
+
+#prof{
+  position: relative;
+  left: 920px;
+  top: -10px;
+  height: 400px;
+  width: 400px;
+  border: 2px solid #000000;
+}
+
+p {
+  width: 500px;
+  position: relative;
+  left: 925px;
+}
+
+.intro {
+  font-family: "Helvetica Neue",Arial,sans-serif;
+  position: relative;
+  top: -10px;
+  right: 100px;
+  text-align: right;
+  word-break: normal;
+}
